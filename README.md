@@ -93,7 +93,6 @@ The system leverages DSPy's structured approach to LLM programming:
 ```
 ├── main.py              # Main application with DSPy implementation
 ├── .env                 # Environment variables (API keys)
-├── CLAUDE.md           # Development guidance
 └── README.md           # This file
 ```
 
