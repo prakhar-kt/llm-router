@@ -68,6 +68,8 @@ Output: "Sorry, your request doesn't fit our supported tasks (Explain, Translate
 
 ## Architecture
 
+![LLM Router Flow Diagram](image/FlowDiagram.png)
+
 ### DSPy Integration
 The system leverages DSPy's structured approach to LLM programming:
 
